@@ -1,0 +1,24 @@
+{
+    "name": "bootstrap",
+    "version": "1.0.0",
+    "description": "try to show index",
+    "main": "index.html",
+    "scripts": {
+        "start": "index.html",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/markoburak/bootstrap.git"
+    },
+    "author": "Marko BUrak",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/markoburak/bootstrap/issues"
+    },
+    "homepage": "https://github.com/markoburak/bootstrap#readme",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
